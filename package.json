@@ -1,11 +1,15 @@
 {
   "name": "comp_library_yvz",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "just for testing the rollup and to create test component library",
   "main": "dist/cjs/index.js",
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yselim/comp_library.git"
+  },
   "types": "dist/index.d.ts",
   "scripts": {
     "rollup": "rollup -c --bundleConfigAsCjs"
