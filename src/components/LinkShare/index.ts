@@ -1,1 +1,1 @@
-export {default} from './LinkShare';
+export {default} from './src/LinkShare.web';
